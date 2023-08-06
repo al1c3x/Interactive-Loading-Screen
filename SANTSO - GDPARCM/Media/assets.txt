@@ -1,0 +1,17 @@
+Media/Textures/BG1.png
+Media/Textures/BG2.png
+Media/Textures/BG3.png
+Media/Textures/BG4.png
+Media/Textures/BG5.png
+Media/Textures/BG6.png
+Media/Textures/BG7.png
+Media/Textures/BG8.png
+Media/Textures/BG9.png
+Media/Textures/Emote1.png
+Media/Textures/Emote2.png
+Media/Textures/Emote3.png
+Media/Textures/Emote4.png
+Media/Textures/Emote5.png
+Media/Textures/Emote6.png
+Media/Textures/Emote7.png
+Media/Textures/genshinlogo.png
